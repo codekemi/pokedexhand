@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokedexhand/static/css/main.2f9808ed.css",
+    "main.js": "/pokedexhand/static/js/main.48a920bf.js",
+    "static/js/787.7e0b23c5.chunk.js": "/pokedexhand/static/js/787.7e0b23c5.chunk.js",
+    "index.html": "/pokedexhand/index.html",
+    "main.2f9808ed.css.map": "/pokedexhand/static/css/main.2f9808ed.css.map",
+    "main.48a920bf.js.map": "/pokedexhand/static/js/main.48a920bf.js.map",
+    "787.7e0b23c5.chunk.js.map": "/pokedexhand/static/js/787.7e0b23c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f9808ed.css",
+    "static/js/main.48a920bf.js"
+  ]
+}
